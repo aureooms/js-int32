@@ -1,0 +1,11 @@
+{
+	"description": "32-bit signed integer arithmetic code bricks for JavaScript",
+	"version": "0.1.0",
+	"repo": "aureooms/js-int32",
+	"scripts": [
+		"js/dist/int32.js"
+	],
+	"name": "aureooms-js-int32",
+	"license": "AGPL-3.0",
+	"main": "js/dist/int32.js"
+}
