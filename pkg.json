@@ -12,6 +12,6 @@
 		]
 	},
 	"debug": false,
-	"ns": "int32",
+	"name": "int32",
 	"src": "js/src/"
 }
