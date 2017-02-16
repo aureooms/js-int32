@@ -20,7 +20,7 @@
 		"type": "git",
 		"url": "https://github.com/aureooms/js-int32.git"
 	},
-	"name": "aureooms-js-int32",
+	"name": "@aureooms/js-int32",
 	"scripts": {
 		"test": "./node_modules/.bin/aureooms-node-package-test",
 		"doc": "./node_modules/.bin/groc",
