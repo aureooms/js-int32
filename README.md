@@ -3,7 +3,7 @@
 
 32-bit signed integer arithmetic code bricks for JavaScript
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-int32.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-int32/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-int32.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-int32/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-int32.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-int32)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-int32.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-int32)
 [![Build Status](https://img.shields.io/travis/aureooms/js-int32.svg?style=flat)](https://travis-ci.org/aureooms/js-int32)
