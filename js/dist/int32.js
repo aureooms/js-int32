@@ -1,6 +1,8 @@
-(function(exports, undefined){
+( function ( ) {
 
-	'use strict';
+'use strict' ;
+
+var definition = function ( exports , undefined ) {
 
 
 /* js/src/compare */
@@ -29,4 +31,16 @@ exports.max = Math.pow( 2, 31 ) - 1;
 
 exports.min = - Math.pow( 2, 31 );
 
-})(typeof exports === 'undefined' ? this['int32'] = {} : exports);
+return exports ;
+} ;
+if ( typeof exports === "object" ) {
+	definition( exports ) ;
+}
+else if ( typeof define === "function" && define.amd ) {
+	define( "@aureooms/js-int32" , [ ] , function ( ) { return definition( { } ) ; } ) ;
+}
+else if ( typeof window === "object" && typeof window.document === "object" ) {
+	definition( window["int32"] = { } ) ;
+}
+else console.error( "unable to detect type of module to define for @aureooms/js-int32") ;
+} )( ) ;
