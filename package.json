@@ -14,11 +14,11 @@
   "author": "aureooms",
   "description": "32-bit signed integer arithmetic code bricks for JavaScript",
   "bugs": {
-    "url": "https://github.com/aureooms/js-int32/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-int32/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aureooms/js-int32.git"
+    "url": "https://github.com/make-github-pseudonymous-again/js-int32.git"
   },
   "name": "@aureooms/js-int32",
   "scripts": {
