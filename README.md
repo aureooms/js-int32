@@ -1,4 +1,4 @@
-[js-int32](http://aureooms.github.io/js-int32)
+[js-int32](http://make-github-pseudonymous-again.github.io/js-int32)
 ==
 
 32-bit signed integer arithmetic code bricks for JavaScript
